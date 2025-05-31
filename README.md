@@ -18,9 +18,8 @@ A modern, stylish landing page for a barbershop, built with HTML and CSS.
 
 ## Demo
 
-To view the site, simply open `index.html` in your browser.
-
-![Screenshot](images/jakob-owens-lkMJcGDZLVs-unsplash.jpg) <!-- Replace with an actual screenshot if desired -->
+- To view the site, simply open `index.html` in your browser.
+- https://the-b-rber.vercel.app/
 
 ## Directory Structure
 
